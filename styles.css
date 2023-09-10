@@ -1,4 +1,4 @@
-tr, td, th{
+tr, td, th, table{
    border: 1px solid black;
    text-align: center;
 }
