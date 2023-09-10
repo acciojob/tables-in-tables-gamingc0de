@@ -1,2 +1,4 @@
-
-/* Your CSS Code here. */
+tr, td, th{
+   border: 1px solid black;
+   text-align: center;
+}
